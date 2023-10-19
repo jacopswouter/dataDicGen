@@ -14,7 +14,7 @@
     "@types/sinonjs__fake-timers": "^8.1.2",
     "bytes": "^3.1.2",
     "excel4node": "^1.8.0",
-    "tslib": "^2.4.1"
+    "tslib": "^2.6.2"
   },
   "devDependencies": {
     "@oclif/dev-cli": "^1.26.10",
