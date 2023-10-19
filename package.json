@@ -5,7 +5,7 @@
   "author": "Marcelo Marsson @marsson",
   "bugs": "https://github.com/marsson/dataDicGen/issues",
   "dependencies": {
-    "@oclif/command": "^1.8.20",
+    "@oclif/command": "^1.8.36",
     "@oclif/config": "^1.18.6",
     "@oclif/errors": "^1.3.6",
     "@salesforce/command": "^5",
